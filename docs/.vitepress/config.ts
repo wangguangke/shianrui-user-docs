@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "食安瑞",
+  base:"/shianrui-user-docs/",
   description: "用户使用手册",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
